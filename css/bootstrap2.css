@@ -1,0 +1,32 @@
+
+.container{
+    padding: 30px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: 'Barlow', sans-serif;
+    border-bottom: 1px solid rgb(186, 185, 185);
+}
+/*Formulario*/
+.form{
+ /*width:30%*/
+    padding: 20px;
+    border-radius: 10px;
+    border: 1px solid rgb(217, 210, 201);
+}
+/*tarjeta (card)*/
+.tarjeta{
+    width: 24rem;
+}
+img{
+    border-radius: 50%;
+    width: 95px;
+    border: 3px solid #13c1dc;
+}
+.titulo{
+    font-size: 26px;
+    font-weight: bold;
+}
+.parrafo{
+    color: white;
+}
